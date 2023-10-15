@@ -1,0 +1,96 @@
+/* Reset some default browser styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Global styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Navigation bar styles */
+.navbar {
+    background-color: #007bff; /* Change this to your desired navbar background color */
+    color: white; /* Navbar text color */
+}
+
+.navbar a {
+    color: white; /* Navbar link color */
+}
+
+/* Card styles (used in form) */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Form input styles */
+.form-control {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Button styles */
+.btn {
+    background-color: #007bff; /* Primary button color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+/* Alert styles */
+.alert {
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Styling for the main content */
+main {
+    padding: 20px;
+}
+
+/* Additional custom styles can be added below */
+
+/* Example: Styling for the "Login" page */
+.login-form {
+    background: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.login-form input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-form button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Add more custom styles for your specific pages and components */
+
+/* Example: Styling for other components */
+
+/* .your-component {
+    Your styles here...
+} */
+
